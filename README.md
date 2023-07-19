@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **learning 🤓**
 
-- 🌱 I’m looking to learn about **React Native**
+- 🌱 I’m looking to learn about **React Native 📳**
 
 - 👯 I’m looking to collaborate on **cool projects 👾**
 
@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **"With great power comes great responsibility" 🕷🕸**
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M2OGs0MzV5OWp2Z245a2pua3libWxsemcwb2tiN3A2N2xzZ3cxaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/znOVYU0jwkj8aXcc0N/giphy.gif" width="400" height="200" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M2OGs0MzV5OWp2Z245a2pua3libWxsemcwb2tiN3A2N2xzZ3cxaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/znOVYU0jwkj8aXcc0N/giphy.gif" width="500" height="250" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
