@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **"With great power comes great responsibility" 🕷🕸**
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M2OGs0MzV5OWp2Z245a2pua3libWxsemcwb2tiN3A2N2xzZ3cxaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/znOVYU0jwkj8aXcc0N/giphy.gif" width="150" height="100" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M2OGs0MzV5OWp2Z245a2pua3libWxsemcwb2tiN3A2N2xzZ3cxaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/znOVYU0jwkj8aXcc0N/giphy.gif" width="300" height="150" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
