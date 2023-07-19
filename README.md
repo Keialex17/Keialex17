@@ -1,7 +1,6 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Keiber Hernández</h1>
 <h3 align="center">A passionate full-stack developer from Venezuela living in Buenos Aires, Argentina</h3>
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="80" height="80" />
 
 - 🔭 I’m currently working on **learning 🤓**
 
@@ -14,6 +13,8 @@
 - 📫 How to reach me **hernandezkeiber34@gmail.com**
 
 - ⚡ Fun fact **"With great power comes great responsibility" 🕷🕸**
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M2OGs0MzV5OWp2Z245a2pua3libWxsemcwb2tiN3A2N2xzZ3cxaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/znOVYU0jwkj8aXcc0N/giphy.gif" width="80" height="80" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
