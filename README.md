@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Keiber Hernández</h1>
 <h3 align="center">A passionate full-stack developer from Venezuela living in Buenos Aires, Argentina</h3>
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="80" height="80" />
 
 - 🔭 I’m currently working on **learning 🤓**
 
